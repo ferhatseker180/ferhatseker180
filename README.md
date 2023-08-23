@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
-<h3 align="center">JR Android Developer from Turkey</h3>
+<h3 align="center"> Android Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatseker180&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatseker180" /> </p>
 
