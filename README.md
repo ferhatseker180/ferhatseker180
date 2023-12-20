@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
-<h3 align="center">Android Developer from Turkey</h3>
+<h3 align="center">Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatseker180&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatseker180" /> </p>
 
-- 🔭 I’m currently working on **Kotlin And Android Testing**
+- 🔭 I’m currently working on **Mobile Development And Frontend Development**
 
-- 🌱 I’m currently learning **Kotlin,Android Testing and various databases**
+- 🌱 I’m currently learning **Kotlin,React Native and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatseker180](https://github.com/ferhatseker180)
 
-- 💬 Ask me about **Kotlin,Android**
+- 💬 Ask me about **Kotlin,Android, React Native**
 
 - 📫 How to reach me **ferhatseker180@gmail.com**
 
