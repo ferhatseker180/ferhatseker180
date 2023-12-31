@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile Development And Frontend Development**
 
-- 🌱 I’m currently learning **Kotlin,React Native and Angular**
+- 🌱 I’m currently learning **Kotlin,React Native and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatseker180](https://github.com/ferhatseker180)
 
