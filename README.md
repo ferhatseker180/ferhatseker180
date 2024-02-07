@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Mobile Development And Web Development**
 
-- 🌱 I’m currently learning **Java,Kotlin and React Native**
+- 🌱 I’m currently learning **Java, Kotlin and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatseker180](https://github.com/ferhatseker180)
 
-- 💬 Ask me about **Java, Kotlin, JavaScript,TypeScript and React Native**
+- 💬 Ask me about **Java, Kotlin, JavaScript ,TypeScript and React Native**
 
 - 📫 How to reach me **ferhatseker180@gmail.com**
 
