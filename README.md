@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatseker180&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatseker180" /> </p>
 
-- 🔭 I’m currently working on **Mobile Development And Frontend Development**
+- 🔭 I’m currently working on **Mobile Development And Web Development**
 
-- 🌱 I’m currently learning **Kotlin,React Native and Java**
+- 🌱 I’m currently learning **Java,Kotlin and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatseker180](https://github.com/ferhatseker180)
 
-- 💬 Ask me about **Kotlin,Android, React Native**
+- 💬 Ask me about **Java, Kotlin, JavaScript,TypeScript and React Native**
 
 - 📫 How to reach me **ferhatseker180@gmail.com**
 
-- ⚡ Fun fact **I love learning new things and ı like to design things**
+- ⚡ Fun fact **I love learning new things and ı like to design things also I am fancy of Philosophy books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
