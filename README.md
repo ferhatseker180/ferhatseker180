@@ -67,7 +67,7 @@
 
 <h3> My Social Account </h3>   
 <div align="center">
-<a href="https://github.com/https://github.com/ferhatseker180/ferhatseker180" target="_blank">
+<a href="https://github.com/https://github.com/ferhatseker180" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21236618/ferhat" target="_blank">
