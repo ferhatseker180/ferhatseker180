@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.creative-tim.com/blog/content/images/size/w960/2022/01/which-development-job-is-right-for-you.jpg" align="center" style="width: 50%" />
+<img src="https://www.creative-tim.com/blog/content/images/size/w960/2022/01/which-development-job-is-right-for-you.jpg" align="center" style="width: 80%" />
 </div>  
   
 
