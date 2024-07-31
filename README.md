@@ -9,10 +9,10 @@
 🔭 I’m currently working on Web Development  
   
 
-🌱 I’m currently using Java And Spring Boot  
+🌱 I’m currently using Java, Spring Boot and React
   
 
-❓ Ask me about Java, Kotlin, JavaScript ,TypeScript and React Native  
+❓ Ask me about Java, Kotlin, JavaScript ,TypeScript, React Native and React
   
 
 📫 How to reach me : ferhatseker180@gmail.com  
